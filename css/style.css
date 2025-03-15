@@ -226,7 +226,7 @@ footer .footer-image {
 
 footer a {
     color: #FFCB05;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 footer a:hover,
