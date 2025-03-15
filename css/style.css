@@ -152,6 +152,10 @@ ol li:last-child {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+.info-grid div p {
+    word-break: break-all;
+}
+
 .info-grid section {
     background-color: #072F55;
     grid-column: 1 / -1;
