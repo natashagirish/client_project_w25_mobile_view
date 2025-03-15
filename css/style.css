@@ -40,7 +40,7 @@ header {
 
 nav {
     background-color: #00274C;
-    padding: 36px 24px;
+    padding: 36px 8px;
     margin-bottom: 24px;
 }
 
@@ -53,7 +53,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin: 0 12px;
+    margin: 0 8px;
 }
 
 nav ul li a {
